@@ -27,6 +27,4 @@ The frontend server will run on 127.0.0.1:3000
 
 I created some test entries with SuperUser access as an example. The superuser details are as follows:
 
-Username: "user",
-
-Password: "potato123"
+Username: "user", Password: "potato123"
