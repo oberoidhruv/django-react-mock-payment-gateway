@@ -11,7 +11,7 @@ Installation can be done using the setup.sh (which will also download the repo)
 
 Some basic instructions on how to install: (Linux and Mac)
 - Copy setup.sh to a directory to host project
-- run "source setup.sh" in a terminal window in the mentioned director
+- run "source setup.sh" in a terminal window in the mentioned directory
 
 This will start the Django backend server on 127.0.0.1:8000
 
