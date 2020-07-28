@@ -15,13 +15,14 @@ Some basic instructions on how to install: (Linux and Mac with pip3 installed)
 
 This will start the Django backend server on 127.0.0.1:8000
 
-
 # Note:
 After the script runs, you will be required to open a second terminal window to run the React frontend. My approach was to create separate interfaces, running similar to a microservice architecture, communicating over Rest APIs.
 To run the frontend, from the root of the project directory, type the following in the second terminal window:
 
 - cd frontend/gui/
 - npm start
+
+You are required to have npm and node.js installed on your local machine.
 
 The frontend server will run on 127.0.0.1:3000
 
