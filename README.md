@@ -9,7 +9,7 @@ Usage as below:
 
 Installation can be done using the setup.sh (which will also download the repo)
 
-Some basic instructions on how to install: (Linux and Mac)
+Some basic instructions on how to install: (Linux and Mac with pip3 installed)
 - Copy setup.sh to a directory to host project
 - run "source setup.sh" in a terminal window in the mentioned directory
 
